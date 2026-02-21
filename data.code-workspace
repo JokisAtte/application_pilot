@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "data",
+			"path": "../hakemusbotti/data"
+		},
+		{
+			"name": "src",
+			"path": "../hakemusbotti/src"
+		},
+		{
+			"name": "storage",
+			"path": "../hakemusbotti/storage"
+		},
+		{
+			"name": "tests",
+			"path": "../hakemusbotti/tests"
+		},
+		{
+			"name": "application-pilot",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
