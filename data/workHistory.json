@@ -2,17 +2,42 @@
   {
     "companyName": "TechFlow Solutions",
     "startDate": "2023-01",
-    "endDate": null,
-    "title": "Full Stack Developer",
-    "description": "Leading the migration of legacy Express.js services to a modular microservices architecture. Implemented real-time data visualization dashboards using React and WebSockets, improving client data transparency by 30%. Currently exploring Python-based AI integrations for automated reporting.",
-    "skills": ["Node.js", "TypeScript", "React", "PostgreSQL", "Docker"]
+    "endDate": "2025-01",
+    "title": "Mid-Level Full Stack Developer",
+    "description": "Led the migration of legacy Express.js services to a modular microservices architecture. Designed and implemented real-time data visualization dashboards using React and WebSockets, improving client data transparency by 30%. Developed RESTful APIs and optimized database queries for high-performance systems. Mentored junior developers and contributed to code reviews to ensure best practices.",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "React",
+      "PostgreSQL",
+      "Docker",
+      "WebSockets"
+    ]
   },
   {
     "companyName": "Nordic Digital Agency",
     "startDate": "2021-06",
-    "endDate": "2022-12",
+    "endDate": "2023-01",
     "title": "Junior Developer",
-    "description": "Developed and maintained client websites using Next.js and Tailwind CSS. Built custom CMS plugins and integrated third-party APIs for payment processing (Stripe) and shipping logistics.",
+    "description": "Developed and maintained client websites using Next.js and Tailwind CSS. Built custom CMS plugins and integrated third-party APIs for payment processing (Stripe) and shipping logistics. Collaborated with designers and senior developers to deliver high-quality, responsive web applications. Gained experience in debugging and optimizing front-end performance.",
     "skills": ["JavaScript", "Next.js", "Tailwind CSS", "REST APIs", "Git"]
+  },
+  {
+    "companyName": "GreenTech Solutions",
+    "startDate": "2025-01",
+    "endDate": null,
+    "title": "Senior Full Stack Developer",
+    "description": "Took on a leadership role, balancing technical and managerial responsibilities. Designed scalable software architectures for cloud-native applications, integrating IoT devices with AI-powered analytics. Acted as a consultant for clients, providing technical guidance and ensuring alignment with business goals. Led pre-sales efforts by creating technical proposals and presenting solutions to stakeholders. Managed a team of developers, overseeing project timelines, code quality, and team productivity. Championed the adoption of modern development practices, including CI/CD pipelines and automated testing.",
+    "skills": [
+      "Node.js",
+      "React",
+      "Python",
+      "Microservices",
+      "Kubernetes",
+      "CI/CD",
+      "Project Management",
+      "Software Architecture",
+      "Pre-Sales Consulting"
+    ]
   }
 ]

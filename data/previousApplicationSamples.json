@@ -1,9 +1,30 @@
 [
   {
-    "title": "Software Engineer Role",
-    "companyName": "Helsinki Tech Hub",
-    "applicationText": "I am writing to express my strong interest in the Software Engineer position. Having spent the last two years optimizing high-traffic Node.js applications, I have developed a keen eye for performance bottlenecks. I don't just write code that works; I write code that scales and is easy for the next developer to read. My approach is always 'problem-first'—I find the most efficient tool for the job, whether that's a familiar JS framework or a new Python library.",
-    "jobDescription": "Looking for a proactive developer who understands microservices and high-performance web apps.",
-    "dateSent": "2025-05"
+    "title": "Full Stack Developer",
+    "companyName": "TechFlow Solutions",
+    "applicationText": "I am writing to express my interest in the Full Stack Developer position at TechFlow Solutions. With a strong background in building scalable web applications, I have spent the last three years developing full-stack solutions using Node.js and React. My experience includes designing modular microservices, implementing real-time data visualization dashboards, and optimizing database queries for high-performance systems. At my current role, I led the migration of legacy systems to a modern microservices architecture, improving system reliability by 40%. I am passionate about creating seamless user experiences and writing clean, maintainable code. I am excited about the opportunity to bring my expertise to TechFlow Solutions and contribute to building innovative products.",
+    "jobDescription": "Looking for a developer with expertise in full-stack development, microservices, and modern web technologies.",
+    "dateSent": "2025-06"
+  },
+  {
+    "title": "AI Engineer",
+    "companyName": "AI Innovations Inc.",
+    "applicationText": "I am thrilled to apply for the AI Engineer position at AI Innovations Inc. With a strong foundation in machine learning and a passion for generative AI, I have been exploring the intersection of AI and software engineering. In my recent projects, I integrated Python-based AI services into Node.js ecosystems, enabling real-time data analysis and decision-making. I have hands-on experience with vector databases, RAG (Retrieval-Augmented Generation) workflows, and fine-tuning language models for domain-specific tasks. I am eager to contribute my skills to AI Innovations Inc. and help develop cutting-edge AI solutions that solve real-world problems.",
+    "jobDescription": "Seeking an AI Engineer with experience in machine learning, vector databases, and integrating AI into production systems.",
+    "dateSent": "2025-06"
+  },
+  {
+    "title": "Software Architect",
+    "companyName": "GreenTech Solutions",
+    "applicationText": "I am excited to apply for the Software Architect position at GreenTech Solutions. With over five years of experience designing scalable and maintainable software systems, I have a proven track record of creating architectures that balance technical excellence with business needs. At my previous role, I led the design of a cloud-native platform that integrated IoT devices with AI-powered analytics, enabling real-time monitoring and optimization. I am passionate about clean architecture, developer experience, and mentoring teams to adopt best practices. I am confident that my expertise in system design and my commitment to sustainability align perfectly with GreenTech Solutions' mission to create innovative solutions for a greener future.",
+    "jobDescription": "Looking for a Software Architect to design scalable systems and lead technical teams in building innovative solutions.",
+    "dateSent": "2025-06"
+  },
+  {
+    "title": "DevOps Engineer",
+    "companyName": "CloudOps Tech",
+    "applicationText": "I am writing to express my interest in the DevOps Engineer position at CloudOps Tech. With a strong background in cloud infrastructure and CI/CD pipelines, I have spent the last three years automating deployments and improving system reliability. At my current role, I implemented a containerized microservices architecture using Docker and Kubernetes, reducing deployment times by 50%. I also developed monitoring and alerting systems that improved incident response times by 30%. I am passionate about building robust DevOps workflows that enable teams to deliver high-quality software efficiently. I am excited about the opportunity to bring my expertise to CloudOps Tech and contribute to building scalable and reliable cloud solutions.",
+    "jobDescription": "Seeking a DevOps Engineer with experience in cloud infrastructure, CI/CD pipelines, and containerization.",
+    "dateSent": "2025-06"
   }
 ]
