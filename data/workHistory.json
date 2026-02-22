@@ -1,0 +1,18 @@
+[
+  {
+    "companyName": "TechFlow Solutions",
+    "startDate": "2023-01",
+    "endDate": null,
+    "title": "Full Stack Developer",
+    "description": "Leading the migration of legacy Express.js services to a modular microservices architecture. Implemented real-time data visualization dashboards using React and WebSockets, improving client data transparency by 30%. Currently exploring Python-based AI integrations for automated reporting.",
+    "skills": ["Node.js", "TypeScript", "React", "PostgreSQL", "Docker"]
+  },
+  {
+    "companyName": "Nordic Digital Agency",
+    "startDate": "2021-06",
+    "endDate": "2022-12",
+    "title": "Junior Developer",
+    "description": "Developed and maintained client websites using Next.js and Tailwind CSS. Built custom CMS plugins and integrated third-party APIs for payment processing (Stripe) and shipping logistics.",
+    "skills": ["JavaScript", "Next.js", "Tailwind CSS", "REST APIs", "Git"]
+  }
+]

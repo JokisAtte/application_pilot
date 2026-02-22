@@ -1,0 +1,19 @@
+{
+  "targetRoles": [
+    "Senior Full Stack Developer",
+    "AI Engineer",
+    "AI Full stack developer",
+    "Software Architect",
+    "Product owner",
+    "Project manager",
+    "Technical project manager"
+  ],
+  "preferredIndustries": ["AI & Machine Learning", "Consulting"],
+  "locationPreference": "Tampere hybrid or on site, EMEA remote, Helsinki and Turku hybrid",
+  "keySellingPoints": [
+    "Expertise in bridging Node.js ecosystems with Python AI services",
+    "Strong focus on developer experience and clean architecture",
+    "Quick learner of emerging technologies like RAG and Vector Databases"
+  ],
+  "minSalary": 65000
+}
