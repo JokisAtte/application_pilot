@@ -1,6 +1,10 @@
 # Hakemusbotti
 
-About
+Hakemusbotti auttaa asiakkaittaan kehittämään työnhakutaitojaan. Erityisesti hakemuskirjeiden kirjoittaminen on vaikeaa ja aikaa vievää.
+
+Botille voi syöttää CV:n ja tarkemman kuvauksen erilaisista työtehtävistä joissa olet toiminut, sekä vanhoja hakemuksia tyylinäytteeksi
+
+Näiden avulla, kun annat avoimen työpaikan kuvauksen, botti osaa hallusinoimatta auttaa sinua hakemuksen kirjottamisessa esimerkiksi etsimällä relevanteimmat työkokemukset ja taidot paikkaan ja auttamalla kirjoittamaan aidosti itsesi näköistä tekstiä.
 
 # How to run
 
