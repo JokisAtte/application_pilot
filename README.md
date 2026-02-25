@@ -4,9 +4,11 @@ About
 
 # How to run
 
-Miten ajetaan
+Miten ajetaan, lisää myöhemmin
 
 # Project structure
+
+
 
 app-pilot/
 ├── data/ # Your raw "Source of Truth"
